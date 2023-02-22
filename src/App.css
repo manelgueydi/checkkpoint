@@ -1,0 +1,22 @@
+.App {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+img {
+  max-width: 200px;
+  border-radius: 50%;
+  margin: 1em 0;
+}
+
+h1,
+h2 {
+  margin: 0.5em 0;
+}
+
+address {
+  font-style: normal;
+  margin-bottom: 1em;
+}
